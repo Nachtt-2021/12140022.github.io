@@ -1,0 +1,135 @@
+/* Reset default browser styles */
+* {
+    margin: ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set font and background color */
+body {
+    display: flex;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
+/* Style header */
+header {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    justify-content: space-between;
+}
+
+.header .title a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.header .logo img {
+    width: 100px;
+}
+
+/* Style body */
+.body {
+    display: flex;
+    
+}
+
+.sidebar {
+    background-color: #2c3e50;
+    color: #fff;
+    width: 20%;
+    float: left;
+    padding: 20px;
+}
+
+.sidebar ul {
+    list-style: none;
+}
+
+.sidebar li {
+    margin-bottom: 10px;
+}
+
+.sidebar a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.konten {
+    flex: 1;
+    padding: 20px;
+    background-color: white;
+}
+
+/* Style footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Style form elements */
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Style the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+th {
+    background-color: #333;
+    color: white;
+}
+
+/* Style table rows with alternating background color */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(odd) {
+    background-color: #fff;
+}

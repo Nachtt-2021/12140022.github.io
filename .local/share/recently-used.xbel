@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/nachtt" added="2023-10-16T14:24:35.598746Z" modified="2023-10-16T14:24:35.598773Z" visited="2023-10-16T14:24:35.598747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-10-16T14:24:35.598750Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nachtt/.vscode/halaman%20utama.html" added="2023-10-22T18:52:49.733612Z" modified="2023-10-22T18:52:49.733644Z" visited="2023-10-22T18:52:49.733614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-10-22T18:52:49.733617Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nachtt/UTS/formulir.html" added="2023-10-22T19:07:07.673107Z" modified="2023-10-22T19:07:07.673155Z" visited="2023-10-22T19:07:07.673109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-10-22T19:07:07.673116Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nachtt/UTS/table.html" added="2023-10-22T19:14:17.547786Z" modified="2023-10-22T19:14:17.547805Z" visited="2023-10-22T19:14:17.547788Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-10-22T19:14:17.547801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/nachtt/UTS/publik/index.css" added="2023-10-22T19:16:20.784191Z" modified="2023-10-22T19:16:20.784198Z" visited="2023-10-22T19:16:20.784192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-10-22T19:16:20.784194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

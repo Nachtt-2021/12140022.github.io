@@ -1,0 +1,43 @@
+2023-10-23 01:47:39.729 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-10-23 01:47:39.753 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'terminalContextMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-10-23 01:47:40.891 [error] Error: The editor could not be opened because the file was not found.
+    at M.fc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2327:22358)
+    at async M.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2327:21444)
+    at async n.R (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2325:22000)
+    at async n.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2325:20668)
+    at async n.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2325:19656)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2514:21238
+2023-10-23 01:47:50.025 [info] [perf] Render performance baseline is 333ms
+2023-10-23 01:52:02.000 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:52:02.316 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:52:02.620 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:52:52.589 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:52:52.993 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:52:53.312 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:53:15.394 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:53:15.680 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:53:15.975 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:53:46.393 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:53:46.669 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 01:53:46.938 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:07:10.637 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:07:10.961 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:07:11.343 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:14:19.753 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:14:20.026 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:14:20.259 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:20:30.745 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:20:31.009 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:20:31.322 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:25:49.352 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:25:49.610 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:25:49.843 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:27:16.418 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:27:16.655 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:27:16.889 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:28:29.102 [error] [Extension Host] (node:389) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 uncaughtException listeners added to [process]. Use emitter.setMaxListeners() to increase limit
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2023-10-23 02:28:29.105 [error] [Extension Host] (node:389) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 unhandledRejection listeners added to [process]. Use emitter.setMaxListeners() to increase limit
+2023-10-23 02:28:29.530 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:28:29.790 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
+2023-10-23 02:28:30.020 [error] [Extension Host] grep: /usr/bin/X11: warning: recursive directory loop
